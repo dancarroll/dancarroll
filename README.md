@@ -1,4 +1,7 @@
-## Hi there 👋
+Currently working at [Google](https://google.com) on [Google Play Games for PC](https://play.google.com/googleplaygames)
+
+<!-- my-badges start -->
+<!-- my-badges end -->
 
 <!--
 **dancarroll/dancarroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
