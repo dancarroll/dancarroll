@@ -1,0 +1,107 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/dancarroll/django-activitysync/commit/ae4d1e04f43c2638d80494e2d3649cf645d13299\"><strong>a</strong>e4d1e04f43c2638d80494e2d3649cf645d13299</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 16 times)\n2. part (used 15 times)\n3. solution (used 12 times)\n4. day (used 11 times)\n5. 1 (used 9 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/dancarroll/qmk_firmware/pull/1\">#1</a>: Update lily58_default_fix branch to head",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "pr-collaboration-10",
+    "tier": 2,
+    "desc": "I have participated in pull requests with 10 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/dancarroll/qmk_firmware/pull/1\">#1</a>: Update lily58_default_fix branch to head",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-10.png"
+  },
+  {
+    "id": "pr-collaboration-15",
+    "tier": 3,
+    "desc": "I have participated in pull requests with 15 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/dancarroll/qmk_firmware/pull/1\">#1</a>: Update lily58_default_fix branch to head",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-15.png"
+  },
+  {
+    "id": "pr-collaboration-20",
+    "tier": 4,
+    "desc": "I have participated in pull requests with 20 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/dancarroll/qmk_firmware/pull/1\">#1</a>: Update lily58_default_fix branch to head",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-20.png"
+  },
+  {
+    "id": "pr-collaboration-25",
+    "tier": 5,
+    "desc": "I have participated in pull requests with 25 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/dancarroll/qmk_firmware/pull/1\">#1</a>: Update lily58_default_fix branch to head",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-25.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/dancarroll/dancarroll.github.com\">dancarroll/dancarroll.github.com</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dancarroll/commit/9270c41bf87ff9eb73b411f8a9542d91198f0c56\">9270c41</a>\n- <a href=\"https://github.com/dancarroll/dancarroll/commit/8cc3e70f1635c233dac2d0b2428d5f10751afa0b\">8cc3e70</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/add6927e5db723599bea9215e1975451ca001be4\">add6927</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/cb60a2789960ca934254452848c4d1b6871f0cd4\">cb60a27</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/0a72559f5985dc2de0a076909fb37ab652a14f72\">0a72559</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/9ebddc405559fbdec4d7fe713a81526320dea6a5\">9ebddc4</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/django-activitysync/commit/0294ba382c066d0f8faae08d381bc2003ac95ba5\">0294ba3</a>\n- <a href=\"https://github.com/dancarroll/django-activitysync/commit/6dbc32b0a86c253d82d48d0237fc5a232ddca537\">6dbc32b</a>\n- <a href=\"https://github.com/dancarroll/django-activitysync/commit/869f90ef2b07eebc949c589c73dc644267d93974\">869f90e</a>\n- <a href=\"https://github.com/dancarroll/django-activitysync/commit/b0d4be490d887fff714de3a25a42802df6151f33\">b0d4be4</a>\n- <a href=\"https://github.com/dancarroll/dotfiles/commit/c0e9d8323e03a2a7bc59d19d292f77fc8c829cd2\">c0e9d83</a>\n- <a href=\"https://github.com/dancarroll/dotfiles/commit/67e4fd0620050ca0a514b53beee8d3c9a9f94a83\">67e4fd0</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/65d4fdd93b0fd6dccd3a59824c2106ce53a620ca\">65d4fdd</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/ea8b78eacd4c85b9f002c0a64a7f257ab7eb331c\">ea8b78e</a>\n- <a href=\"https://github.com/dancarroll/django-activitysync/commit/f309c0f04cc6a58bc6745e525360c679735eb76c\">f309c0f</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/66be490703f613bbdc2c9109644da8c5864c527a\">66be490</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
