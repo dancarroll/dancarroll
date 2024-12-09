@@ -16,8 +16,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"part\".",
-    "body": "My favorite commit message words are:\n\n1. part (used 20 times)\n2. add (used 18 times)\n3. day (used 17 times)\n4. solution (used 16 times)\n5. 1 (used 11 times)",
+    "desc": "My favorite word is \"day\".",
+    "body": "My favorite commit message words are:\n\n1. day (used 25 times)\n2. part (used 20 times)\n3. add (used 18 times)\n4. solution (used 16 times)\n5. 1 (used 11 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dancarroll/commit/f92fb151be9d225d48d4dd7e227254ef790f504c\">f92fb15</a>\n- <a href=\"https://github.com/dancarroll/dancarroll/commit/9270c41bf87ff9eb73b411f8a9542d91198f0c56\">9270c41</a>\n- <a href=\"https://github.com/dancarroll/dancarroll/commit/8cc3e70f1635c233dac2d0b2428d5f10751afa0b\">8cc3e70</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/add6927e5db723599bea9215e1975451ca001be4\">add6927</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/cb60a2789960ca934254452848c4d1b6871f0cd4\">cb60a27</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/0a72559f5985dc2de0a076909fb37ab652a14f72\">0a72559</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/bf821197825bbcd7158b42b75856de07b9685bfa\">bf82119</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/9a548db1d8b6ee810b9c292afeec853073285df7\">9a548db</a>\n- <a href=\"https://github.com/dancarroll/dancarroll/commit/f92fb151be9d225d48d4dd7e227254ef790f504c\">f92fb15</a>\n- <a href=\"https://github.com/dancarroll/dancarroll/commit/9270c41bf87ff9eb73b411f8a9542d91198f0c56\">9270c41</a>\n- <a href=\"https://github.com/dancarroll/dancarroll/commit/8cc3e70f1635c233dac2d0b2428d5f10751afa0b\">8cc3e70</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/add6927e5db723599bea9215e1975451ca001be4\">add6927</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
