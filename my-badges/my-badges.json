@@ -80,28 +80,28 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/bf821197825bbcd7158b42b75856de07b9685bfa\">bf82119</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/9a548db1d8b6ee810b9c292afeec853073285df7\">9a548db</a>\n- <a href=\"https://github.com/dancarroll/dancarroll/commit/f92fb151be9d225d48d4dd7e227254ef790f504c\">f92fb15</a>\n- <a href=\"https://github.com/dancarroll/dancarroll/commit/9270c41bf87ff9eb73b411f8a9542d91198f0c56\">9270c41</a>\n- <a href=\"https://github.com/dancarroll/dancarroll/commit/8cc3e70f1635c233dac2d0b2428d5f10751afa0b\">8cc3e70</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/add6927e5db723599bea9215e1975451ca001be4\">add6927</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/django-activitysync/commit/d3f372d98db16b374cd822c66079d7cf30412170\">d3f372d</a>\n- <a href=\"https://github.com/dancarroll/django-activitysync/commit/f8ffdbc9e35fd815d3ea859c3074dcf1d01884f9\">f8ffdbc</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/5549f58379ae312b84ee25281122b38044bd2697\">5549f58</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/ee1c91dfe68f1e5c81b9b2d5a62fc91ee72c4d93\">ee1c91d</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/9ba140ca61283b19126d895fe3bef0233d8d0137\">9ba140c</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/91c113c34be5adb05786fa91ae04148e838d7559\">91c113c</a>\n- <a href=\"https://github.com/dancarroll/django-activitysync/commit/0294ba382c066d0f8faae08d381bc2003ac95ba5\">0294ba3</a>\n- <a href=\"https://github.com/dancarroll/django-activitysync/commit/6dbc32b0a86c253d82d48d0237fc5a232ddca537\">6dbc32b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dotfiles/commit/6e6b1d37d6d516353f21594ea074021c2730e530\">6e6b1d3</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/65d4fdd93b0fd6dccd3a59824c2106ce53a620ca\">65d4fdd</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/ea8b78eacd4c85b9f002c0a64a7f257ab7eb331c\">ea8b78e</a>\n- <a href=\"https://github.com/dancarroll/django-activitysync/commit/f309c0f04cc6a58bc6745e525360c679735eb76c\">f309c0f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/b08628205042268aa2eb6e15e1f5444deedfe981\">b086282</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/d35fb018fe7eb99da06adf9dc81242079d9c7e11\">d35fb01</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/46e79e57007ed3724e305035127505bd9045f70d\">46e79e5</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/051b8fa3dbf3bcfe9a5d0c0037942a2698532e33\">051b8fa</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/e718744eef947f4d9dcfb61065b87c49fe158a1f\">e718744</a>\n- <a href=\"https://github.com/dancarroll/dancarroll/commit/6e6c49e1952cdbc6708cf8e9c79ee062fbccce2d\">6e6c49e</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/66be490703f613bbdc2c9109644da8c5864c527a\">66be490</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/cb60a2789960ca934254452848c4d1b6871f0cd4\">cb60a27</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/0a72559f5985dc2de0a076909fb37ab652a14f72\">0a72559</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/9ebddc405559fbdec4d7fe713a81526320dea6a5\">9ebddc4</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   }
 ]
