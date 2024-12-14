@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"day\".",
-    "body": "My favorite commit message words are:\n\n1. day (used 25 times)\n2. part (used 20 times)\n3. add (used 18 times)\n4. solution (used 16 times)\n5. 1 (used 11 times)",
+    "body": "My favorite commit message words are:\n\n1. day (used 48 times)\n2. part (used 46 times)\n3. add (used 28 times)\n4. solution (used 28 times)\n5. 1 (used 23 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/b08628205042268aa2eb6e15e1f5444deedfe981\">b086282</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/d35fb018fe7eb99da06adf9dc81242079d9c7e11\">d35fb01</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/46e79e57007ed3724e305035127505bd9045f70d\">46e79e5</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/051b8fa3dbf3bcfe9a5d0c0037942a2698532e33\">051b8fa</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/e718744eef947f4d9dcfb61065b87c49fe158a1f\">e718744</a>\n- <a href=\"https://github.com/dancarroll/dancarroll/commit/6e6c49e1952cdbc6708cf8e9c79ee062fbccce2d\">6e6c49e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/my-badges/commit/2b74b50f885fc0ca1f04ec8b7ccf8b10b0bcb728\">2b74b50</a>\n- <a href=\"https://github.com/dancarroll/my-badges/commit/cdaf8d4202694ef3d045dbba2365cc915b1b7b8b\">cdaf8d4</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/840aadc92915b02bbac63ce503d7fac6db99da3a\">840aadc</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/e91d63d437e00d84b28a82b51527592b67548444\">e91d63d</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/8a4bd6837b1ca1c8307128a3d0679faf743c57db\">8a4bd68</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/95a9552689baa0d4299ed9602ab4555573c5d995\">95a9552</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -103,5 +103,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/cb60a2789960ca934254452848c4d1b6871f0cd4\">cb60a27</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/0a72559f5985dc2de0a076909fb37ab652a14f72\">0a72559</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/9ebddc405559fbdec4d7fe713a81526320dea6a5\">9ebddc4</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "my-badges-contributor",
+    "tier": 0,
+    "desc": "I contributed to <https://github.com/my-badges/my-badges>!",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/101\">#101</a>",
+    "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
   }
 ]
