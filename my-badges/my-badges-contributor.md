@@ -5,6 +5,7 @@
 Pull requests:
 
 - <a href="https://github.com/my-badges/my-badges/pull/101">#101</a>
+- <a href="https://github.com/my-badges/my-badges/pull/104">#104</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
