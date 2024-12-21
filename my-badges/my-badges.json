@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"day\".",
-    "body": "My favorite commit message words are:\n\n1. day (used 62 times)\n2. part (used 59 times)\n3. solution (used 37 times)\n4. add (used 34 times)\n5. 1 (used 29 times)",
+    "body": "My favorite commit message words are:\n\n1. day (used 69 times)\n2. part (used 61 times)\n3. solution (used 39 times)\n4. add (used 36 times)\n5. 1 (used 30 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/8d41b69f14be264cce7cdf83ac27747c018dce83\">8d41b69</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/be2e0fa4354c7797c06f63d43e015e814457cd10\">be2e0fa</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/bef80f2a36fa9ed48df99c9b97483f246e39202d\">bef80f2</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/840aadc92915b02bbac63ce503d7fac6db99da3a\">840aadc</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/e91d63d437e00d84b28a82b51527592b67548444\">e91d63d</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/8a4bd6837b1ca1c8307128a3d0679faf743c57db\">8a4bd68</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/d30c3038e034db2bfb8f9cd4869c3ff7b483325a\">d30c303</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/8d41b69f14be264cce7cdf83ac27747c018dce83\">8d41b69</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/be2e0fa4354c7797c06f63d43e015e814457cd10\">be2e0fa</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/bef80f2a36fa9ed48df99c9b97483f246e39202d\">bef80f2</a>\n- <a href=\"https://github.com/dancarroll/my-badges/commit/2b74b50f885fc0ca1f04ec8b7ccf8b10b0bcb728\">2b74b50</a>\n- <a href=\"https://github.com/dancarroll/my-badges/commit/cdaf8d4202694ef3d045dbba2365cc915b1b7b8b\">cdaf8d4</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -117,5 +117,12 @@
     "desc": "I've participated in the <a href=\"https://events.yandex.ru/events/opensourcenight\">Opensource Library Night 24</a>!",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/104\">#104</a>",
     "image": "https://my-badges.github.io/my-badges/oss-library-night-24.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/df77432819b239851226b5eaf28c3d68f19f06d9\">df77432</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   }
 ]

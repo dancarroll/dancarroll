@@ -18,6 +18,7 @@ Currently working at [Google](https://google.com) on [Google Play Games for PC](
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 <a href="my-badges/my-badges-contributor.md"><img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
 <a href="my-badges/oss-library-night-24.md"><img src="https://my-badges.github.io/my-badges/oss-library-night-24.png" alt="I&apos;ve participated in the &lt;a href=&quot;https://events.yandex.ru/events/opensourcenight&quot;&gt;Opensource Library Night 24&lt;/a&gt;!" title="I&apos;ve participated in the &lt;a href=&quot;https://events.yandex.ru/events/opensourcenight&quot;&gt;Opensource Library Night 24&lt;/a&gt;!" width="64"></a>
+<a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
 <!-- my-badges end -->
 
 <!--
