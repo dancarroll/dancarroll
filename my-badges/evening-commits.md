@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/dancarroll/aoc_2024/commit/c9569d046b7f6987df7ce82eb1e5a8615f2b76bc">c9569d0</a>
-- <a href="https://github.com/dancarroll/aoc_2024/commit/d30c3038e034db2bfb8f9cd4869c3ff7b483325a">d30c303</a>
-- <a href="https://github.com/dancarroll/aoc_2024/commit/8d41b69f14be264cce7cdf83ac27747c018dce83">8d41b69</a>
-- <a href="https://github.com/dancarroll/aoc_2024/commit/be2e0fa4354c7797c06f63d43e015e814457cd10">be2e0fa</a>
-- <a href="https://github.com/dancarroll/aoc_2024/commit/bef80f2a36fa9ed48df99c9b97483f246e39202d">bef80f2</a>
-- <a href="https://github.com/dancarroll/my-badges/commit/2b74b50f885fc0ca1f04ec8b7ccf8b10b0bcb728">2b74b50</a>
+- <a href="https://github.com/dancarroll/aoc_2024/commit/df04153ccfd402ad700c57a96843fe74a6ebd88e">df04153</a>
+- <a href="https://github.com/dancarroll/aoc_2024/commit/520ef3d9249fdabc461dc6795651c2a8987c3677">520ef3d</a>
+- <a href="https://github.com/dancarroll/aoc_2024/commit/456339051fbd74d9ab3fbe0e12f36f7cf306d27b">4563390</a>
+- <a href="https://github.com/dancarroll/aoc_2024/commit/4542c3a8b786b7cdff9100bc129fad8675d80234">4542c3a</a>
+- <a href="https://github.com/dancarroll/aoc_2024/commit/52ae1897b3aa7ff1eb51f35c48b55b4c0ad97b4b">52ae189</a>
+- <a href="https://github.com/dancarroll/aoc_2024/commit/57c02d036901d3c3e62d22f12d639d59c3e8b20f">57c02d0</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
