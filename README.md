@@ -19,6 +19,9 @@ Currently working at [Google](https://google.com) on [Google Play Games for PC](
 <a href="my-badges/my-badges-contributor.md"><img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
 <a href="my-badges/oss-library-night-24.md"><img src="https://my-badges.github.io/my-badges/oss-library-night-24.png" alt="I&apos;ve participated in the &lt;a href=&quot;https://events.yandex.ru/events/opensourcenight&quot;&gt;Opensource Library Night 24&lt;/a&gt;!" title="I&apos;ve participated in the &lt;a href=&quot;https://events.yandex.ru/events/opensourcenight&quot;&gt;Opensource Library Night 24&lt;/a&gt;!" width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
+<a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
+<a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
+<a href="my-badges/mass-delete-commit.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
 <!-- my-badges end -->
 
 <!--

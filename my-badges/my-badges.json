@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/dancarroll/django-activitysync/commit/ae4d1e04f43c2638d80494e2d3649cf645d13299\"><strong>a</strong>e4d1e04f43c2638d80494e2d3649cf645d13299</a>",
+    "body": "- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/aa2133e69a4c1260406d2b3f041883adcd40d55c\"><strong>a</strong>a2133e69a4c1260406d2b3f041883adcd40d55c</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"day\".",
-    "body": "My favorite commit message words are:\n\n1. day (used 89 times)\n2. part (used 86 times)\n3. solution (used 50 times)\n4. 1 (used 41 times)\n5. 2 (used 38 times)",
+    "body": "My favorite commit message words are:\n\n1. day (used 90 times)\n2. add (used 88 times)\n3. part (used 86 times)\n4. solution (used 50 times)\n5. 1 (used 41 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -80,28 +80,28 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/django-activitysync/commit/d3f372d98db16b374cd822c66079d7cf30412170\">d3f372d</a>\n- <a href=\"https://github.com/dancarroll/django-activitysync/commit/f8ffdbc9e35fd815d3ea859c3074dcf1d01884f9\">f8ffdbc</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dancarrollorg_hyde/commit/7546b4054f198fb0cc0ee57e9c9c0c7855087411\">7546b40</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/78959ee9c0c269ae7307c52beec07b133a335616\">78959ee</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/4351ceebf0c4a91b356eea3585c0a1c21d1cd668\">4351cee</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/c26b08f5bb77754758daf313948322c768c3b66e\">c26b08f</a>\n- <a href=\"https://github.com/dancarroll/django-activitysync/commit/d3f372d98db16b374cd822c66079d7cf30412170\">d3f372d</a>\n- <a href=\"https://github.com/dancarroll/django-activitysync/commit/f8ffdbc9e35fd815d3ea859c3074dcf1d01884f9\">f8ffdbc</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dotfiles/commit/6e6b1d37d6d516353f21594ea074021c2730e530\">6e6b1d3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/af99c77cfb04aab7dd9c14338efb5fef2bb19f35\">af99c77</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/bfbfee7ec9ddfc89adba26bc5bd762f3ca5e1197\">bfbfee7</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/a63930b0829ec433912bb2fe857bd2bb818fc709\">a63930b</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/c0571d32798e8ed87941244a74ea411c62950755\">c0571d3</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/5af46ca7fce34162c93b7a914533225e804f49e1\">5af46ca</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/f1b1d0ac629c5fb0a8941308aee4aeacdf014609\">f1b1d0a</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/df04153ccfd402ad700c57a96843fe74a6ebd88e\">df04153</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/520ef3d9249fdabc461dc6795651c2a8987c3677\">520ef3d</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/456339051fbd74d9ab3fbe0e12f36f7cf306d27b\">4563390</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/4542c3a8b786b7cdff9100bc129fad8675d80234\">4542c3a</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/52ae1897b3aa7ff1eb51f35c48b55b4c0ad97b4b\">52ae189</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/57c02d036901d3c3e62d22f12d639d59c3e8b20f\">57c02d0</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/a8253332fc2fdd0c274b9917c8a749d38e9a1ac2\">a825333</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/9638f2b5bea86e6481c617797f85e75db08be379\">9638f2b</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/df04153ccfd402ad700c57a96843fe74a6ebd88e\">df04153</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/520ef3d9249fdabc461dc6795651c2a8987c3677\">520ef3d</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/456339051fbd74d9ab3fbe0e12f36f7cf306d27b\">4563390</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/4542c3a8b786b7cdff9100bc129fad8675d80234\">4542c3a</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/d47c79e83bc1708030287490374289f3c70a5a7b\">d47c79e</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/8434608eda17253b7856fb4c12d89504347922ec\">8434608</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/cb60a2789960ca934254452848c4d1b6871f0cd4\">cb60a27</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/0a72559f5985dc2de0a076909fb37ab652a14f72\">0a72559</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/9ebddc405559fbdec4d7fe713a81526320dea6a5\">9ebddc4</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/d47c79e83bc1708030287490374289f3c70a5a7b\">d47c79e</a>\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/8434608eda17253b7856fb4c12d89504347922ec\">8434608</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/cb60a2789960ca934254452848c4d1b6871f0cd4\">cb60a27</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/0a72559f5985dc2de0a076909fb37ab652a14f72\">0a72559</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/9ebddc405559fbdec4d7fe713a81526320dea6a5\">9ebddc4</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_hyde/commit/597b1a6e673b0364bbed7948114948dafa428488\">597b1a6</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
@@ -124,5 +124,26 @@
     "desc": "I made an epic commit with a message over 500 chars.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_2024/commit/df77432819b239851226b5eaf28c3d68f19f06d9\">df77432</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/ab3598bb1b4384f99b190aad6368591b6c30925b\"><strong>ab</strong>3598bb1b4384f99b190aad6368591b6c30925b</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/45fe4011e74881d5049ccf9809488b9775ef5164\">45fe401</a>: Fixed #2 -- Add per-tag RSS feeds and switch to the new Django 1.2 syndication views\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/6f621a2cd96b78d46ab3838d3d3370a086e529dd\">6f621a2</a>: Fixed links for archive section headers; updated aboutme image",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dancarrollorg_hyde/commit/597b1a6e673b0364bbed7948114948dafa428488\">597b1a6</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   }
 ]
