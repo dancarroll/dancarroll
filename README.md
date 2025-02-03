@@ -22,6 +22,7 @@ Currently working at [Google](https://google.com) on [Google Play Games for PC](
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
 <a href="my-badges/mass-delete-commit.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
+<a href="my-badges/github-anniversary-15.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-15.png" alt="I joined GitHub 15 years ago." title="I joined GitHub 15 years ago." width="64"></a>
 <!-- my-badges end -->
 
 <!--
