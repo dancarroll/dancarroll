@@ -8,7 +8,7 @@ My favorite commit message words are:
 2. day (used 90 times)
 3. part (used 86 times)
 4. solution (used 50 times)
-5. 1 (used 41 times)
+5. branch (used 42 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
