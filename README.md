@@ -24,6 +24,7 @@ Currently working at [Google](https://google.com) on [Google Play Games for PC](
 <a href="my-badges/mass-delete-commit.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
 <a href="my-badges/github-anniversary-15.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-15.png" alt="I joined GitHub 15 years ago." title="I joined GitHub 15 years ago." width="64"></a>
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
+<a href="my-badges/winter-solstice-commits.md"><img src="https://my-badges.github.io/my-badges/winter-solstice-commits.png" alt="I commit in the Winter solstice." title="I commit in the Winter solstice." width="64"></a>
 <!-- my-badges end -->
 
 <!--
