@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 96 times)\n2. day (used 90 times)\n3. part (used 86 times)\n4. solution (used 50 times)\n5. branch (used 43 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 97 times)\n2. day (used 95 times)\n3. part (used 90 times)\n4. solution (used 54 times)\n5. 1 (used 46 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/103cb3d7e6d2ff52e3ad1ebed175edbc045ef086\">103cb3d</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/dac8cb2cb8ed0c21e9cc9d7332ddf91b3f65a832\">dac8cb2</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/9414ff3dcf0dcffe0debd1beee62dd8ab216aaf9\">9414ff3</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/a43db54c145c455d0efaae762ef68ade8e54b4b7\">a43db54</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/194b5b005202dfa31795a62dc1a280d8f86feda0\">194b5b0</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/2e7a3bacb95f8221f37178e91337427f6429f3c9\">2e7a3ba</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/d86c55a61dfaf01d01001bf808f0e9eaa1def725\">d86c55a</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/b86d054f5dabd62260209be10c39d16eea57bf56\">b86d054</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/f23b451511aa8e40b7022b678cbdf2c6f90c9c6e\">f23b451</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/1764dc422f3c4da3900368b0bc348af8eaec3a8b\">1764dc4</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/72833ede2afdc9a061c1392d256fec49a9261a94\">72833ed</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/19f79995ae3fadc5c26c8d7612bd1d5cb394cfd5\">19f7999</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -136,14 +136,14 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/45fe4011e74881d5049ccf9809488b9775ef5164\">45fe401</a>: Fixed #2 -- Add per-tag RSS feeds and switch to the new Django 1.2 syndication views\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/6f621a2cd96b78d46ab3838d3d3370a086e529dd\">6f621a2</a>: Fixed links for archive section headers; updated aboutme image",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/72833ede2afdc9a061c1392d256fec49a9261a94\">72833ed</a>: Fix gitignore due to change in directory structure\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/19f79995ae3fadc5c26c8d7612bd1d5cb394cfd5\">19f7999</a>: Fix gitignore due to change in directory structure",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dancarrollorg_hyde/commit/597b1a6e673b0364bbed7948114948dafa428488\">597b1a6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/1764dc422f3c4da3900368b0bc348af8eaec3a8b\">1764dc4</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -166,5 +166,12 @@
     "desc": "I commit in the Winter solstice.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/530115def911eb676afe4ee5ac40809def3caa9e\">530115d</a>",
     "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/1764dc422f3c4da3900368b0bc348af8eaec3a8b\">1764dc4</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   }
 ]

@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/dancarroll/dancarrollorg_django/commit/45fe4011e74881d5049ccf9809488b9775ef5164">45fe401</a>: Fixed #2 -- Add per-tag RSS feeds and switch to the new Django 1.2 syndication views
-- <a href="https://github.com/dancarroll/dancarrollorg_django/commit/6f621a2cd96b78d46ab3838d3d3370a086e529dd">6f621a2</a>: Fixed links for archive section headers; updated aboutme image
+- <a href="https://github.com/dancarroll/aoc_dart/commit/72833ede2afdc9a061c1392d256fec49a9261a94">72833ed</a>: Fix gitignore due to change in directory structure
+- <a href="https://github.com/dancarroll/aoc_dart/commit/19f79995ae3fadc5c26c8d7612bd1d5cb394cfd5">19f7999</a>: Fix gitignore due to change in directory structure
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
