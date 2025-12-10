@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/dancarroll/aoc_dart/commit/21243385a3699a4b16f529e2ef5733d5dccf29a4">2124338</a>
+- <a href="https://github.com/dancarroll/aoc_dart/commit/c4e7636fa786e667c02bdb494e6d0efc213e28aa">c4e7636</a>
+- <a href="https://github.com/dancarroll/aoc_dart/commit/22a74afca4081cf890218db4e9484c1c5d116d0b">22a74af</a>
 - <a href="https://github.com/dancarroll/aoc_dart/commit/718493a8588f093bb649f2274ee6383827bacd2a">718493a</a>
 - <a href="https://github.com/dancarroll/aoc_dart/commit/50d61bbdbf07d3e3538c96deeeb9fd0fa9e60107">50d61bb</a>
 - <a href="https://github.com/dancarroll/aoc_dart/commit/ced44d988c541b84315bb5c48f22afd4533da157">ced44d9</a>
-- <a href="https://github.com/dancarroll/aoc_dart/commit/dded5e4e1c9c5cdb8a8db84323813df1b45ebe19">dded5e4</a>
-- <a href="https://github.com/dancarroll/aoc_dart/commit/1cc46447656283cac74ac7cab7864108dacd9493">1cc4644</a>
-- <a href="https://github.com/dancarroll/aoc_dart/commit/d86c55a61dfaf01d01001bf808f0e9eaa1def725">d86c55a</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

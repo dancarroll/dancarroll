@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"day\".",
-    "body": "My favorite commit message words are:\n\n1. day (used 108 times)\n2. part (used 105 times)\n3. add (used 98 times)\n4. solution (used 72 times)\n5. 1 (used 52 times)",
+    "body": "My favorite commit message words are:\n\n1. day (used 110 times)\n2. part (used 110 times)\n3. add (used 98 times)\n4. solution (used 75 times)\n5. 1 (used 54 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/718493a8588f093bb649f2274ee6383827bacd2a\">718493a</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/50d61bbdbf07d3e3538c96deeeb9fd0fa9e60107\">50d61bb</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/ced44d988c541b84315bb5c48f22afd4533da157\">ced44d9</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/dded5e4e1c9c5cdb8a8db84323813df1b45ebe19\">dded5e4</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/1cc46447656283cac74ac7cab7864108dacd9493\">1cc4644</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/d86c55a61dfaf01d01001bf808f0e9eaa1def725\">d86c55a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/21243385a3699a4b16f529e2ef5733d5dccf29a4\">2124338</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/c4e7636fa786e667c02bdb494e6d0efc213e28aa\">c4e7636</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/22a74afca4081cf890218db4e9484c1c5d116d0b\">22a74af</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/718493a8588f093bb649f2274ee6383827bacd2a\">718493a</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/50d61bbdbf07d3e3538c96deeeb9fd0fa9e60107\">50d61bb</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/ced44d988c541b84315bb5c48f22afd4533da157\">ced44d9</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
