@@ -16,8 +16,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"day\".",
-    "body": "My favorite commit message words are:\n\n1. day (used 113 times)\n2. part (used 113 times)\n3. add (used 98 times)\n4. solution (used 78 times)\n5. 1 (used 57 times)",
+    "desc": "My favorite word is \"part\".",
+    "body": "My favorite commit message words are:\n\n1. part (used 120 times)\n2. day (used 118 times)\n3. add (used 98 times)\n4. solution (used 80 times)\n5. 1 (used 57 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,14 +94,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/21243385a3699a4b16f529e2ef5733d5dccf29a4\">2124338</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/c4e7636fa786e667c02bdb494e6d0efc213e28aa\">c4e7636</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/22a74afca4081cf890218db4e9484c1c5d116d0b\">22a74af</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/718493a8588f093bb649f2274ee6383827bacd2a\">718493a</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/50d61bbdbf07d3e3538c96deeeb9fd0fa9e60107\">50d61bb</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/ced44d988c541b84315bb5c48f22afd4533da157\">ced44d9</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/e426dc59fc3d6571f571c7115065c9d5dbaea309\">e426dc5</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/1afbf93aeeffa298ba8176e1a0a9b793b3216c31\">1afbf93</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/615e3d179fe730deb076c259ee91780bd359535b\">615e3d1</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/8f4059f90d8b99ae61e1417032f5206940889e48\">8f4059f</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/21243385a3699a4b16f529e2ef5733d5dccf29a4\">2124338</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/c4e7636fa786e667c02bdb494e6d0efc213e28aa\">c4e7636</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/d47c79e83bc1708030287490374289f3c70a5a7b\">d47c79e</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/8434608eda17253b7856fb4c12d89504347922ec\">8434608</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/cb60a2789960ca934254452848c4d1b6871f0cd4\">cb60a27</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/0a72559f5985dc2de0a076909fb37ab652a14f72\">0a72559</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/9ebddc405559fbdec4d7fe713a81526320dea6a5\">9ebddc4</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_hyde/commit/597b1a6e673b0364bbed7948114948dafa428488\">597b1a6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/78a34d8e97fab5735646fee561748d5e545c8afc\">78a34d8</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/d47c79e83bc1708030287490374289f3c70a5a7b\">d47c79e</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/8434608eda17253b7856fb4c12d89504347922ec\">8434608</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/cb60a2789960ca934254452848c4d1b6871f0cd4\">cb60a27</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/0a72559f5985dc2de0a076909fb37ab652a14f72\">0a72559</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/9ebddc405559fbdec4d7fe713a81526320dea6a5\">9ebddc4</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
