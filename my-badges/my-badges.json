@@ -173,5 +173,12 @@
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/1764dc422f3c4da3900368b0bc348af8eaec3a8b\">1764dc4</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dancarrollorg_hyde/commit/6eada8a4a2b535163c65aff3d6bd098f49804d93\">6eada8a</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_hyde/commit/300fa814b0f45d4a843d141e7e2e3b04a6504cb8\">300fa81</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/5b60c2ea5b6dbf880f076b4853a915a70ab7e77b\">5b60c2e</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/2775573a7e8eed4597d0d9e11f7ce8d931190a69\">2775573</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/c0571d32798e8ed87941244a74ea411c62950755\">c0571d3</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/5af46ca7fce34162c93b7a914533225e804f49e1\">5af46ca</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
