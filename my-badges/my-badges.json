@@ -187,5 +187,12 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dancarrollorg_hyde/commit/24133d85ff72bd2da1ed65fd383021fc0494a31c\">24133d8</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_hyde/commit/cdae123769a4e15e6aa5ae889c3b5dad90239015\">cdae123</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dancarrollorg_hugo/commit/cd0505de4ba22bfc0d484ddb1f6020b0736d5684\">cd0505d</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_hugo/commit/386cf4e6707c0cea87b174f7792f67b6a1650bbd\">386cf4e</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   }
 ]
