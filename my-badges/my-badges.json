@@ -16,8 +16,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"part\".",
-    "body": "My favorite commit message words are:\n\n1. part (used 124 times)\n2. day (used 122 times)\n3. add (used 98 times)\n4. solution (used 82 times)\n5. 1 (used 57 times)",
+    "desc": "My favorite word is \"day\".",
+    "body": "My favorite commit message words are:\n\n1. day (used 124 times)\n2. part (used 124 times)\n3. add (used 98 times)\n4. solution (used 82 times)\n5. 1 (used 57 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/pyeconet/commit/5e5a7cb73c7c1c5eda301befd6d0eb9ee518e1a7\">5e5a7cb</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/29516a39e3803c2cb1543c6a1a7cabdb2fb2bda3\">29516a3</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/c3ff341ca21cec675b93b542850ce5b5d0b91cd6\">c3ff341</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/153f1f1061894b4ce200292da56cd1357d4d4d8d\">153f1f1</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/e426dc59fc3d6571f571c7115065c9d5dbaea309\">e426dc5</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/1afbf93aeeffa298ba8176e1a0a9b793b3216c31\">1afbf93</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/pyeconet/commit/b0a36282eb5c025691bc16d35f66053906bc3712\">b0a3628</a>\n- <a href=\"https://github.com/dancarroll/pyeconet/commit/0e873f19a6e3b2cff0f7c5dd80b97e0ed2f74949\">0e873f1</a>\n- <a href=\"https://github.com/dancarroll/pyeconet/commit/f7962d2d752842a804a9780149d90e6e034ba526\">f7962d2</a>\n- <a href=\"https://github.com/dancarroll/pyeconet/commit/3bc0ac527fed4f390703f97ff6390bf85b770c8c\">3bc0ac5</a>\n- <a href=\"https://github.com/dancarroll/pyeconet/commit/5cc1352a26e3e043c2c2ba96bb6cd56d98ab6c0c\">5cc1352</a>\n- <a href=\"https://github.com/dancarroll/pyeconet/commit/5e5a7cb73c7c1c5eda301befd6d0eb9ee518e1a7\">5e5a7cb</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
