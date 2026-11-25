@@ -1,24 +1,10 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/aa2133e69a4c1260406d2b3f041883adcd40d55c\"><strong>a</strong>a2133e69a4c1260406d2b3f041883adcd40d55c</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
-  },
-  {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"part\".",
-    "body": "My favorite commit message words are:\n\n1. part (used 124 times)\n2. day (used 122 times)\n3. add (used 98 times)\n4. solution (used 82 times)\n5. 1 (used 57 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "github-anniversary-5",
@@ -70,41 +56,6 @@
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-25.png"
   },
   {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/dancarroll/dancarroll.github.com\">dancarroll/dancarroll.github.com</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
-    "id": "sleepy-coder",
-    "tier": 0,
-    "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dancarrollorg_hyde/commit/7546b4054f198fb0cc0ee57e9c9c0c7855087411\">7546b40</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/78959ee9c0c269ae7307c52beec07b133a335616\">78959ee</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/4351ceebf0c4a91b356eea3585c0a1c21d1cd668\">4351cee</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/c26b08f5bb77754758daf313948322c768c3b66e\">c26b08f</a>\n- <a href=\"https://github.com/dancarroll/django-activitysync/commit/d3f372d98db16b374cd822c66079d7cf30412170\">d3f372d</a>\n- <a href=\"https://github.com/dancarroll/django-activitysync/commit/f8ffdbc9e35fd815d3ea859c3074dcf1d01884f9\">f8ffdbc</a>",
-    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
-  },
-  {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/af99c77cfb04aab7dd9c14338efb5fef2bb19f35\">af99c77</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/bfbfee7ec9ddfc89adba26bc5bd762f3ca5e1197\">bfbfee7</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/a63930b0829ec433912bb2fe857bd2bb818fc709\">a63930b</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/c0571d32798e8ed87941244a74ea411c62950755\">c0571d3</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/5af46ca7fce34162c93b7a914533225e804f49e1\">5af46ca</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/f1b1d0ac629c5fb0a8941308aee4aeacdf014609\">f1b1d0a</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/7a533a66ad4243d624000599e0eaf51d1af342b8\">7a533a6</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/3ee7fda0eb2a9cb4da91ea58dd63d8d443cd76a4\">3ee7fda</a>\n- <a href=\"https://github.com/dancarroll/pyeconet/commit/5cc1352a26e3e043c2c2ba96bb6cd56d98ab6c0c\">5cc1352</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/29516a39e3803c2cb1543c6a1a7cabdb2fb2bda3\">29516a3</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/c3ff341ca21cec675b93b542850ce5b5d0b91cd6\">c3ff341</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/153f1f1061894b4ce200292da56cd1357d4d4d8d\">153f1f1</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
-    "id": "midnight-commits",
-    "tier": 0,
-    "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/78a34d8e97fab5735646fee561748d5e545c8afc\">78a34d8</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/d47c79e83bc1708030287490374289f3c70a5a7b\">d47c79e</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/8434608eda17253b7856fb4c12d89504347922ec\">8434608</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/cb60a2789960ca934254452848c4d1b6871f0cd4\">cb60a27</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/0a72559f5985dc2de0a076909fb37ab652a14f72\">0a72559</a>\n- <a href=\"https://github.com/dancarroll/qmk-bongo/commit/9ebddc405559fbdec4d7fe713a81526320dea6a5\">9ebddc4</a>",
-    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
-  },
-  {
     "id": "my-badges-contributor",
     "tier": 0,
     "desc": "I contributed to My Badges!",
@@ -119,80 +70,10 @@
     "image": "https://my-badges.github.io/my-badges/oss-library-night-24.png"
   },
   {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/df77432819b239851226b5eaf28c3d68f19f06d9\">df77432</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/ab3598bb1b4384f99b190aad6368591b6c30925b\"><strong>ab</strong>3598bb1b4384f99b190aad6368591b6c30925b</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/72833ede2afdc9a061c1392d256fec49a9261a94\">72833ed</a>: Fix gitignore due to change in directory structure\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/19f79995ae3fadc5c26c8d7612bd1d5cb394cfd5\">19f7999</a>: Fix gitignore due to change in directory structure",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/1764dc422f3c4da3900368b0bc348af8eaec3a8b\">1764dc4</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
     "id": "github-anniversary-15",
     "tier": 0,
     "desc": "I joined GitHub 15 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-15.png"
-  },
-  {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/5c5291be8520c63c413bb05434db2a4a3850e859\">5c5291b</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/9f00d1560e5649484623cbabbe78864bc0d0f770\">9f00d15</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/360d69dc0c1282bc71d6bad83300639258aa71f2\">360d69d</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/ec05079e17472b094b849e319cb7876f5b6795ae\">ec05079</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/8a9f40a9b36e45dea2d7e270fb799a15ebc238f2\">8a9f40a</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/8f6328939f21c13425c2bbe6755ee534484acee6\">8f63289</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/b0ff3259f9f5195ea92168aa797522df5bf16778\">b0ff325</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/3e7164e812e2df568c53c1500609022fa91f7f1e\">3e7164e</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/b6062dad41bfa1377beef569f19271eba8221aa0\">b6062da</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/8c2c199594ac678b6c5636ae64e7fd32daa9c311\">8c2c199</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/9ca31f16f3c88eefdfb0fb77e763c6e2d472fa64\">9ca31f1</a>\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/7f58f2197435ede6f1aa700e73b6d318c6a38b9b\">7f58f21</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
-    "id": "winter-solstice-commits",
-    "tier": 0,
-    "desc": "I commit in the Winter solstice.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/530115def911eb676afe4ee5ac40809def3caa9e\">530115d</a>",
-    "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
-  },
-  {
-    "id": "mass-delete-commit-10k",
-    "tier": 2,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/aoc_dart/commit/1764dc422f3c4da3900368b0bc348af8eaec3a8b\">1764dc4</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
-  },
-  {
-    "id": "pi-day",
-    "tier": 0,
-    "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dancarrollorg_hyde/commit/6eada8a4a2b535163c65aff3d6bd098f49804d93\">6eada8a</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_hyde/commit/300fa814b0f45d4a843d141e7e2e3b04a6504cb8\">300fa81</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/5b60c2ea5b6dbf880f076b4853a915a70ab7e77b\">5b60c2e</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/2775573a7e8eed4597d0d9e11f7ce8d931190a69\">2775573</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/c0571d32798e8ed87941244a74ea411c62950755\">c0571d3</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_django/commit/5af46ca7fce34162c93b7a914533225e804f49e1\">5af46ca</a>",
-    "image": "https://my-badges.github.io/my-badges/pi-day.png"
-  },
-  {
-    "id": "st-patricks-day",
-    "tier": 0,
-    "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dancarrollorg_hyde/commit/24133d85ff72bd2da1ed65fd383021fc0494a31c\">24133d8</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_hyde/commit/cdae123769a4e15e6aa5ae889c3b5dad90239015\">cdae123</a>",
-    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
-  },
-  {
-    "id": "science-fiction-day",
-    "tier": 0,
-    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dancarroll/dancarrollorg_hugo/commit/cd0505de4ba22bfc0d484ddb1f6020b0736d5684\">cd0505d</a>\n- <a href=\"https://github.com/dancarroll/dancarrollorg_hugo/commit/386cf4e6707c0cea87b174f7792f67b6a1650bbd\">386cf4e</a>",
-    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   }
 ]
